@@ -1,0 +1,22 @@
+Identifier = "Gridder"
+Name = "Gridder"
+Description = "Gridder"
+
+Author = "Raie"
+Email = "test@gmail.com"
+
+Version = "0.1"
+Environment = "2.3"
+
+RunOnStartup = {
+  "main.lua"
+}
+
+SavedVariables = {
+}
+
+Embed = {
+}
+
+Dependencies = {
+}
